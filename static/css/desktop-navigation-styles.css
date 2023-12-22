@@ -1,0 +1,11 @@
+/*--------------------------------------------------------------
+# Desktop Navigation 
+--------------------------------------------------------------*/
+@media (min-width: 1280px) {
+    .navbar {
+      padding: 0;
+    }
+  
+    /* Rest of the desktop navigation styles */
+  }
+  

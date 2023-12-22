@@ -1,0 +1,52 @@
+:root {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    color: rgba(var(--color-primary-rgb), 1);
+  }
+  
+  a {
+    color: var(--color-links);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: var(--color-links-hover);
+    text-decoration: none;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-primary);
+  }
+  
+  #main {
+    margin-top: 90px;
+  }
+  
+  /*--------------------------------------------------------------
+  # Sections & Section Header
+  --------------------------------------------------------------*/
+  section {
+    padding: 40px 0;
+    overflow: hidden;
+  }
+  
+  .section-header {
+    border-bottom: 2px solid var(--color-black);
+  }
+  
+  .section-header h2 {
+    font-size: 50px;
+    color: var(--color-black);
+  }
+  
+  .section-header p {
+    margin-bottom: 0;
+  }
+  

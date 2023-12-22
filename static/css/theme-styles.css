@@ -1,0 +1,38 @@
+/* Style the theme-of-semester section */
+#theme-of-semester {
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 30px; /* Add padding for better spacing */
+  }
+  
+  #theme-of-semester h2 {
+    color: #007bff; /* Blue heading color */
+  }
+  
+  #theme-of-semester p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-top: 10px;
+  }
+  
+  /* Style the theme-of-week section */
+  #theme-of-the-week {
+    background-color: #e9ecef; /* Lighter gray background color */
+    padding: 30px; /* Add padding for better spacing */
+  }
+  
+  #theme-of-the-week h2 {
+    color: #28a745; /* Green heading color */
+  }
+  
+  #theme-of-the-week p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-top: 10px;
+  }
+  
+  /* Style the strong tag within the paragraphs */
+  #theme-of-semester strong,
+  #theme-of-the-week strong {
+    color: #dc3545; /* Red strong tag color */
+  }
+  
